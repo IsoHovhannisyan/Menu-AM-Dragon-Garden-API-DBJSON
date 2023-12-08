@@ -1067,8 +1067,8 @@
       ],
       "entrancePage": [
         "Մուտք",
-        "Էլփոստի հասցեն կամ բջջային համարը",
-        "Մուտքագրեք ձեր բջջայինը",
+        "Էլփոստի հասցեն",
+        "Մուտքագրեք ձեր Էլփոստի հասցեն",
         "Գաղտնաբառ",
         "Մուտքագրեք ձեր գաղտնաբառը",
         "Մոռացե՞լ եք գաղտնաբառը",
@@ -1092,6 +1092,12 @@
         "Ես ռոբոտ չեմ",
         "Գրանցում",
         "Շարունակել"
+      ],
+      "errorMessage": [
+        "Նման Էլփոստի հասցեով օգտատեր արդեն գոյություն ունի",
+        "Խնդրում ենք ճիշտ լրացնել անհրաժեշտ դաշտերը",
+        "Սխալ է մուտքագրված Էլփոստի հասցեն կամ գաղտնաբառը",
+        "Խնդրում ենք լրացնել անհրաժեշտ դաշտերը"
       ],
       "favorites": [
         "Դուք դեռ չունեք նախընտրած ապրանքներ",
@@ -1148,8 +1154,8 @@
       ],
       "entrancePage": [
         "Sign In",
-        "Email address or mobile number",
-        "Enter your mobile number",
+        "Email address",
+        "Enter your Email address",
         "Password",
         "Enter your password",
         "Forgot Password?",
@@ -1173,6 +1179,12 @@
         "I’m note robot",
         "Create Account",
         "Continue with"
+      ],
+      "errorMessage": [
+        "User with such e-mail already exists",
+        "Please fill in the required fields correctly",
+        "Incorrectly entered email or password",
+        "Please fill in the required fields"
       ],
       "favorites": [
         "You don't have favorites yet",
